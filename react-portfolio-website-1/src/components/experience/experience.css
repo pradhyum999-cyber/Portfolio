@@ -46,7 +46,7 @@
         grid-template-columns: 1fr;
     }
 
-    .experience__container > div {
+    .experience__container>div {
         width: 80%;
         padding: 2rem;
         margin: 0 auto;
@@ -63,8 +63,8 @@
         gap: 1rem;
     }
 
-    .experience__container > div {
+    .experience__container>div {
         width: 100%;
         padding: 2rem 1rem;
     }
-  }
+}

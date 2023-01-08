@@ -8,12 +8,10 @@
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
-    background: linear-gradient(
-        45deg,
-        transparent,
-        var(--color-primary),
-        transparent
-    );
+    background: linear-gradient(45deg,
+            transparent,
+            var(--color-primary),
+            transparent);
     display: grid;
     place-items: center;
 }
@@ -23,10 +21,11 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+
 }
 
 .about__me__image:hover {
-   transform: rotate(0);
+    transform: rotate(0);
 }
 
 .about__cards {
@@ -76,7 +75,7 @@
         grid-template-columns: 1fr;
         gap: 0;
     }
-    
+
     .about__me {
         width: 50%;
         margin: 2rem auto 4rem;
@@ -94,16 +93,16 @@
         margin: 0 auto 3rem;
     }
 
-     .about__cards {
+    .about__cards {
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
-     }
+    }
 
-     .about__content {
+    .about__content {
         text-align: center;
-     }
+    }
 
-     .about__content p {
+    .about__content p {
         margin: 1rem 0;
     }
 }
