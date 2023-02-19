@@ -44,7 +44,6 @@ const Certification = () => {
             </article>
           </div>
         </div>
-        </div>
     </section>
   )
 }
