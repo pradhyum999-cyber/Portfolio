@@ -1,6 +1,6 @@
 import React from 'react'
 import './certification.css'
-import { BsPatchCheckFill } from 'react-icons/bs'
+import { TbCertificate } from 'react-icons/tb'
 
 const Certification = () => {
   return (
@@ -9,38 +9,38 @@ const Certification = () => {
       <div className='container certification__container'>
           <div className='certification__content'>
             <article className='certification__details'>
-              <BsPatchCheckFill className='certification__details-icons' />
+              <TbCertificate className='certification__details-icons' />
               <div>
-                <h4>PL-900</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>PL - 900</h4>
+                <small className='text-light'>Microsoft Certified: Power Platform Fundamentals</small>
               </div>
             </article>
             <article className='certification__details'>
-              <BsPatchCheckFill className='certification__details-icons' />
+              <TbCertificate className='certification__details-icons' />
               <div>
-                <h4>CSS</h4>
-                <small className='text-light'>Beginner</small>
+                <h4>AZ - 900</h4>
+                <small className='text-light'>Microsoft Certified: Azure Fundamentals</small>
               </div>
             </article>
             <article className='certification__details'>
-              <BsPatchCheckFill className='certification__details-icons' />
+              <TbCertificate className='certification__details-icons' />
               <div>
-                <h4>Javascript</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>PL - 400</h4>
+                <small className='text-light'>Microsoft Certified: Power Platform Developer Associate</small>
               </div>
             </article>
             <article className='certification__details'>
-              <BsPatchCheckFill className='certification__details-icons' />
+              <TbCertificate className='certification__details-icons' />
               <div>
-                <h4>TypeScript</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>PL - 200</h4>
+                <small className='text-light'>Microsoft Certified: Power Platform Functional Consultant Associate</small>
               </div>
             </article>
             <article className='certification__details'>
-              <BsPatchCheckFill className='certification__details-icons' />
+              <TbCertificate className='certification__details-icons' />
               <div>
-                <h4>C#</h4>
-                <small className='text-light'>Intermediate</small></div>
+                <h4>PL - 600</h4>
+                <small className='text-light'>Microsoft Certified: Power Platform Solution Architect Expert</small></div>
             </article>
           </div>
         </div>

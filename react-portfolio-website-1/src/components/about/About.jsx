@@ -33,12 +33,12 @@ const About = () => {
     </article>
     </div>
     <p>
-      Pradyumna is a software developer with two years of experience working 
-      at Accenture. He specializes in working on Dynamics CRM. 
-      In his role at Accenture, Pradyumna uses his technical skills to develop 
-      and maintain software solutions for clients. In his free time, 
-      Pradyumna enjoys staying up-to-date with the latest developments 
-      in the tech industry and exploring new tools and technologies.
+    Experienced Software Engineer with a strong background in Microsoft Dynamics CRM and PowerApps. 
+    Over 2 years of experience in delivering innovative solutions to complex business challenges. 
+    Skilled in customizing Dynamics CRM to meet the specific needs of clients, resulting in improved productivity and efficiency. 
+    Proficient in creating intuitive PowerApps to automate manual processes, streamline workflows and provide actionable insights. 
+    I have successfully developed projects from conception to deployment, ensuring timely delivery and customer satisfaction. 
+    Always eager to learn and embrace new technologies to stay ahead in the field.
       </p>
 
     </div>
